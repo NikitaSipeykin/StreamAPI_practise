@@ -1,4 +1,4 @@
-package hw.steram_api;
+package hw.stream_api.first;
 
 import java.util.Objects;
 import java.util.stream.Collectors;
