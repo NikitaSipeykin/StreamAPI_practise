@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="234c057d-fd5b-4b12-b4ef-7e92ed475fae" name="Changes" comment="init repo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/stream_api/fourth/Scratch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/stream_api/fifth/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/stream_api/fifth/SomeConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/stream_api/fifth/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Scratch">
+  <component name="RunManager" selected="Application.SomeConsumer">
     <configuration name="FileFilterBySize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw.stream_api.second.FileFilterBySize" />
       <module name="StreamAPI_practise" />
@@ -86,8 +89,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SomeConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.stream_api.fifth.SomeConsumer" />
+      <module name="StreamAPI_practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.stream_api.fifth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SomeConsumer" />
         <item itemvalue="Application.Scratch" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.FileFilterBySize" />
